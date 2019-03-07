@@ -1,8 +1,8 @@
 [
     {
-        "name": "Project 1",
-        "description": "This is where you put description about your projects.",
-        "image": "images/image1.jpg",
+        "name": "Les biais cognitifs",
+        "description": "Test de vulgarisation des biais cognitifs.",
+        "image": "images/indexbiais.jpg",
         "link": "https://google.com"
 	},
     {
