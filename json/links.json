@@ -1,26 +1,14 @@
 [
     {
-        "name": "Link",
+        "name": "GitHub",
         "color": "red",
         "icon": "web",
-        "url": "https://google.com"
+        "url": "https://github.com/lilianaubert"
 	},
     {
-        "name": "Link",
-        "color": "red",
+        "name": "LinkedIn",
+        "color": "Blue",
         "icon": "web",
-        "url": "https://google.com"
+        "url": "https://www.linkedin.com/in/lilian-aubert-6153a5140/"
 	},
-    {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
-	},
-    {
-        "name": "Link",
-        "color": "red",
-        "icon": "web",
-        "url": "https://google.com"
-	}
 ]
